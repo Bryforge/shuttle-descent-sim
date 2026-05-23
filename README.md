@@ -14,3 +14,4 @@ The model demonstrates:
 - altitude/range and pressure charts
 
 This is an educational aerospace simulation and visualization, not certified flight software.
+<img width="748" height="950" alt="sds-sample" src="https://github.com/user-attachments/assets/9b12e27c-aa3f-4e70-ade4-8633f26fe5b2" />
